@@ -99,7 +99,7 @@ reproducibility. Exact configuration in `dataset.py::Config`.
 
 ## Authors
 
-[Your name] — CS 535, [Institution], [Term/Year]
+Nadia — CS 491, Southern Illinois University Carbondale, Summer 2026
 
 ## Acknowledgments
 
