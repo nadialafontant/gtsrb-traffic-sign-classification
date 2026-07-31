@@ -106,9 +106,3 @@ Nadia Lafontant — CS 491, Southern Illinois University Carbondale, Summer 2026
 - GTSRB dataset: Stallkamp et al., "Man vs. Computer: Benchmarking Machine
   Learning Algorithms for Traffic Sign Recognition," Neural Networks, 2012.
 - Pretrained weights: torchvision model zoo (ImageNet1K).
-
-## AI Assistance Disclosure
-
-Portions of this project's code scaffolding and documentation were
-generated with the assistance of Claude (Anthropic). See the report's
-AI Assistance Appendix for details.
