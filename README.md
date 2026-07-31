@@ -97,7 +97,7 @@ stopping (patience=5) on validation loss.
 Random seed fixed at `42` across NumPy, PyTorch, and CUDA for
 reproducibility. Exact configuration in `dataset.py::Config`.
 
-## Authors
+## Author
 
 Nadia Lafontant — CS 491, Southern Illinois University Carbondale, Summer 2026
 
