@@ -1,0 +1,4 @@
+Model,Test Accuracy,Macro F1,Params (M),Inference (ms),FPS
+CNN (from scratch),0.9643,0.9572,0.332,1.1118,899.4079
+ResNet18 (transfer),0.9572,0.9285,11.1986,2.7638,361.8236
+EfficientNet-B0 (transfer),0.9383,0.8993,4.0626,8.7329,114.51
